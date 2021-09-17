@@ -1833,7 +1833,7 @@ input, select, textarea {
 		transition: border-color 0.2s ease;
 		background-color: transparent;
 		border: solid 1px !important;
-		border-color: rgba(255, 255, 255, 0.15) !important;
+		border-color: rgba(255, 255, 255, 1) !important;
 		border-radius: 3em;
 		color: #ffffff !important;
 		cursor: pointer;
@@ -3239,15 +3239,15 @@ input, select, textarea {
 			}
 
 		.wrapper.alt {
-			background-color: #011627;
+			background-color: #00233f;
 		}
 
 		.wrapper.style1 {
-			background-color: #011627;
+			background-color: #00233f;
 		}
 
 		.wrapper.style1-alt {
-			background-color: #011627;
+			background-color: #00233f;
 		}
 
 		.wrapper.style2 {
